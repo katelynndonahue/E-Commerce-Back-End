@@ -1,3 +1,4 @@
+const router = require ('express').Router();
 const { Tag } = require("../../models");
 
 // GET a Tag
@@ -49,3 +50,4 @@ router.get('/:id', async (req, res) => {
       res.status(500).json(err);
     }
   });
+  module.exports = router;
