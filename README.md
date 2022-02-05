@@ -14,12 +14,13 @@ so that my company can compete with other e-commerce companies.
 
 ## Installation
 
-I began by creating a uniquely named repo on Github and cloned the key to work locally. I then set up my initial folder structure with the given starter code.
+I began by creating a uniquely named repo on Github and cloned the key to work locally. I then set up my initial folder structure with the given starter code. From there I added models, routes, seeded the data and got to work!
 
 ## Usage
 
-    ![screen shot](./assets/images/)
+    ![screen shot of insomnia](./assets/images/eCommerceInsomniaScreenShot.png)
     ```
+[Link to video walk through](https://https://watch.screencastify.com/v/YWDMe619MgMULzwDTalF)    
 
 ## Credits
 
